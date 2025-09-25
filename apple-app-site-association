@@ -1,0 +1,19 @@
+{
+  applinks: {
+  	apps: [], // only before iOS 13 
+    details: [
+      {
+      	appId: "NXKTU8Z4DV.com.ara.zambaguni", // only before iOS 13 
+        paths: [ "*" ], // only before iOS 13 			   
+        appIDs: [
+        	"NXKTU8Z4DV.com.ara.zambaguni"
+        ],
+        components: [
+            {
+                /: "*"
+            }
+        ]
+      }
+    ]
+  }
+}
